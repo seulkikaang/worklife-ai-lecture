@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" viewBox="0 0 480 120">
+  <rect x="8" y="16" width="88" height="88" rx="18" fill="#1F4FD8"/>
+  <rect x="26" y="38" width="22" height="22" rx="5" fill="#FFFFFF"/>
+  <rect x="56" y="38" width="22" height="22" rx="5" fill="#FFFFFF" opacity="0.6"/>
+  <rect x="26" y="66" width="52" height="16" rx="5" fill="#FFB547"/>
+  <text x="118" y="78" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="52" font-weight="700" fill="#1A1D29">모아워크</text>
+</svg>
