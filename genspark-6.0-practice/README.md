@@ -16,3 +16,8 @@
 | benchmark_research_skill.md, registrant_data_qc_skill.md | 22 | Skills에 붙여 넣는 지시서 |
 | webinar_registrants_retest.csv | 22 | 지시서 재실행용 새 데이터 |
 | answer_key_for_instructor.md | 강사용 | 심어 둔 오류와 기대 결과 |
+
+## 참고
+- `notion_page_source.md`는 노션 페이지 원고입니다. `{{IMG:...}}`, `{{FILE:...}}` 자리에 노션에 올린 이미지와 파일이 들어가 있습니다.
+- `answer_key_for_instructor.md`는 노션에 올리지 않았습니다. 강사만 봅니다.
+- 녹음 파일은 대본을 합성 음성(edge-tts)으로 읽혀 만든 것입니다.
